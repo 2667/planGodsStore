@@ -1356,7 +1356,7 @@
 					};
 					B3BB0AF41D81065800D6466A = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = JR453H2A98;
+						DevelopmentTeam = KPZB7A4HR4;
 						LastSwiftMigration = 0830;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -1803,7 +1803,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = JR453H2A98;
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				ENABLE_BITCODE = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				INFOPLIST_FILE = planGodDelgate/Info.plist;
@@ -1831,7 +1831,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = JR453H2A98;
+				DEVELOPMENT_TEAM = KPZB7A4HR4;
 				ENABLE_BITCODE = YES;
 				FRAMEWORK_SEARCH_PATHS = "";
 				INFOPLIST_FILE = planGodDelgate/Info.plist;
